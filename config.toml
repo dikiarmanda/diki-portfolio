@@ -94,7 +94,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Diki"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -187,7 +187,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = ""
+      title = "Lord Diki"
       # subtitle shown in home page (HTML format is supported)
       subtitle = "Design Graphic | Web Developer | Lectures"
       # whether to use typeit animation for subtitle
@@ -207,10 +207,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
+    GitHub = "dikiarmanda"
     Linkedin = ""
     Twitter = "xxxx"
-    Instagram = "xxxx"
+    Instagram = "diki_armandav"
     Facebook = "xxxx"
     Telegram = "xxxx"
     Medium = ""
@@ -281,7 +281,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RootMe= ""
     Phone = ""
     Email = "xxxx@xxxx.com"
-    RSS = true # 
+    RSS = fasle # 
 
   #  Page global config
   [params.page]
