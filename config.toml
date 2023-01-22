@@ -281,7 +281,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RootMe= ""
     Phone = ""
     Email = "xxxx@xxxx.com"
-    RSS = fasle # 
+    RSS = true # 
 
   #  Page global config
   [params.page]
