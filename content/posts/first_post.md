@@ -1,5 +1,5 @@
 ---
-title: First_post
+title: Informatika Ngobar
 date: 2023-01-23T01:53:49.000+07:00
 tags:
 - post
