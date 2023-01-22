@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://dikiarmanda.netlify.app/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -77,9 +77,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "My cool site"
+  title = "Diki Armanda"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is my cool site"
+  description = "Diki Armanda | Portfolio"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "This is My New Hugo Site"
+      subtitle = "Design Graphic | Web Developer | Lectures"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
