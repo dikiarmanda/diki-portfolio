@@ -1,11 +1,12 @@
 ---
-title: "First_post"
-date: 2023-01-23T01:53:49+07:00
-draft: false
+title: First_post
+date: 2023-01-23T01:53:49.000+07:00
 tags:
-    - post
+- post
+
 ---
+# Informatika Ngobar
 
-## My First Post
+![](/uploads/inf-ngobar.png)
 
-Testing Static Web with HUGO SSG
+### Founder Informatika NGOBAR (Ngoding Bareng)
